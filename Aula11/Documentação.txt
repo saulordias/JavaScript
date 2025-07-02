@@ -1,0 +1,21 @@
+Operadores aritméticos, de atribuição e incremento
+
+/* Aritméticos 
+
+* + Adição / concatenação
+* - / *
+* ** Potenciação --- ex 2 elevado a 10 
+* % Resto da divisão
+
+Precedência dos operadores -- 
+
+Incremento = ++
+Decremento = --
+
+
+// OPERADORES DE ATRIBUIÇÃO -- ex: +=  -=  /=  *=  **= 
+
+NAN = NOT A NUMBER -- acontece quando algum tipo de dado não está retornando um número. 
+
+
+// Comandos para corrigir --- parseint = transformar em número inteiro  /// parsefloat = transformar número com decimais. // Number = ele já faz a correção de forma automática, identificando se é inteiro ou não. 
