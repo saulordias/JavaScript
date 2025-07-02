@@ -19,7 +19,7 @@ const primeiNumero = '5'; // number
 const segundoNumero = 10;
 const resultado= primeiNumero * segundoNumero;
 const resultadoDuplicado = resultado * 2;
-let resultadoTriplicado = resultado * 3;
+let resultadoTriplicado = resultado * 3; // exemplo de para modificar
 resultadoTriplicado = resultadoTriplicado + 5; // Modificando o valor da variável
 console.log(primeiNumero);
 

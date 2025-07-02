@@ -1,0 +1,3 @@
+Constantes com const
+
+Fala todas as regras de const
