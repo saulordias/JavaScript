@@ -1,1 +1,1 @@
-Parei no 6 - Variáveis com LET
+Parei no 9 - Exercicios const e let
