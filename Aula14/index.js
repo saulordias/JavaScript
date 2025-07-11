@@ -50,7 +50,7 @@ num1 += num2 // 1.0
 
 //num1 = num1.toFixed(2); // forma incorreta de fazer dar o resultado inteiro correto dessa conta
 
-//console.log(Number.isInteger(num1)); // quando vc vai verificar se é inteiro ele da false. 
+console.log(Number.isInteger(num1)); // quando vc vai verificar se é inteiro ele da false. 
 
 // para resolver esse problema
 
