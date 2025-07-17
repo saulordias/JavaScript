@@ -1,1 +1,1 @@
-Parei no 7 - Modelo HTML e CSS
+Parei no 10 - Operação Ternari

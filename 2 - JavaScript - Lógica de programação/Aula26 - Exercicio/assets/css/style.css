@@ -102,3 +102,12 @@ background: var(--primary-color-darker);
 .imc-table2 tr:last-child {
     border-bottom: none;
 }
+
+.paragrafo-resultado, .bad{ 
+background: #abecbb;
+padding: 10px 20px;
+}
+
+.bad {
+background: #f59393;
+}
