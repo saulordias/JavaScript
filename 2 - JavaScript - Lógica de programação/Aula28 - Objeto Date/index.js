@@ -53,9 +53,10 @@ function formataData(data){
     const minu = zeroEsquerda (data.getMinutes());
     const seg = zeroEsquerda (data.getSeconds());
 
-    return `${dia}/${mes}/${ano} ${hora}:${minu}:${seg}`; // aqui estamos formatando a data no formato dd/mm/aaaa hh:mm:ss
+    return `${dia} de ${mes}/${ano} ${hora}:${minu}:${seg}`; // aqui estamos formatando a data no formato dd/mm/aaaa hh:mm:ss
 }
 
 const data = new Date();
 const dataBrasil = formataData(data); // aqui estamos chamando a função formataData e passando a data atual como parâmetro
 console.log(dataBrasil); // aqui estamos imprimindo a data formatada no console
+
