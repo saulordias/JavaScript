@@ -16,7 +16,7 @@ const souUmDado = function(){ // função anonima
 
 // Aqui estamos recebendo uma função e criamos uma função para executala 
 function executafuncao (funcao){
-    console.log('Vou executar sua funação abaixo:')
+    console.log('Vou executar sua função abaixo:')
     funcao ();
 }
 
