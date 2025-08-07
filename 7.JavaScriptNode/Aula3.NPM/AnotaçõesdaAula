@@ -1,0 +1,37 @@
+Utilizamos npm init -y ......... para criar o package.json
+
+* npm install express ......... para instalar o express
+
+* npm install express -E ......... para instalar o express e travar a versão
+
+* npm update ......... para atualizar as dependências
+
+* npm uninstall express .......... para desinstalar o express
+
+* npm install express --save-dev ............  para instalar o express como dependência de desenvolvimento
+
+* npm install express --save-prod ................ para instalar o express como dependência de produção
+
+* npm install express@2.1.0 .......... para instalar uma versão específica do express
+
+Se você usar "express": "^2.1.0" o '^' significa que o npm irá instalar a versão mais recente do express que é compatível com a versão 2.1.0, ou seja, qualquer versão maior que 2.1.0, mas menor que 3.0.0.
+
+Se você usar "express": "~2.1.0" o '~' que ele só mudará o patch version, ou seja, ele irá apenas mudar o patch version para 2.1.1,
+
+
+2.      1.      0
+Majos   Minor   patch
+
+* npm install -g npm@latest ................ usamos para atualizar o npm para a versão mais recente
+
+* npm ls .......... para listar as dependências instaladas
+
+* npm i webpack --save-dev .......... para instalar o webpack como dependência de desenvolvimento ( o webpack é uma ferramenta de empacotamento de módulos JavaScript)
+
+* npm ls --depth=1 .......... para listar as dependências instaladas com profundidade 1, ou seja, apenas as dependências de nível superior
+
+* npm ls --depth=0 .......... para listar as dependências instaladas sem profundidade, ou seja, apenas as dependências de nível inferior
+
+* npm outdated .......... para listar as dependências desatualizadas
+
+
