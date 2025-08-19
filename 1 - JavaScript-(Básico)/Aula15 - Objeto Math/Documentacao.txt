@@ -1,3 +1,0 @@
-Objeto Math
-
-Falando sobre todas as funções que você pode usar para arredondar numeros, pegar maior ou menor numero de listas.. Como gerar um numero aleatorio.

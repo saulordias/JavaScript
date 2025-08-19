@@ -1,5 +1,0 @@
-Exercicio Const e let
-
-ensina como concatenar em diversas formas..
-
-//template strings

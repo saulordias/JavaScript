@@ -1,1 +1,0 @@
-Exercicio para fazer mostrar na tela algumas coisas usando Math e Numbers
