@@ -1,0 +1,3 @@
+Falando mais sobre numeros
+
+Aprendendo a converter em numeros inteiros -- ex: 0.9999999999 para 1.0 
